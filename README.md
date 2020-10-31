@@ -1,5 +1,5 @@
 # orphic-cli
-
+[![npm version](https://badge.fury.io/js/%40obrienk%2Forphic-cli.svg)](https://badge.fury.io/js/%40obrienk%2Forphic-cli)
 ## Information
 
 For updates, see [Orphic's website](https://orphic.enterprises).
@@ -17,4 +17,6 @@ If installed globally, invoke `orphic` via CLI and create a new base package wit
 
 ## Releases
 
+0.0.5 -- support for @obrienk/bc-mvc package.
+0.0.4 -- Added Plesk scaffolding.
 0.0.3 -- Verified working on Unix based machines/zsh. 
